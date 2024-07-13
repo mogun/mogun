@@ -3,4 +3,4 @@
 ## 🌱 Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=py,php,ruby,css,html,js,ts,mysql,postgres,ansible,terraform,aws,gcp,docker,nodejs,react,nextjs)](https://skillicons.dev)
 
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=mogun&layout=compact)
+![Top Languages Card (Compact layout)](https://github-readme-stats-8bjpa9yzb-moguns-projects.vercel.app/api/top-langs/?username=mogun&layout=compact)
