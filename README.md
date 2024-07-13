@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @mogun
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-mogun/mogun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I’m @mogun
+- 🙂 I’m Chieri Sasaki 
+## 🌱 Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=py,php,ruby,css,html,js,ts,mysql,postgres,ansible,terraform,aws,gcp,docker,nodejs,react,nextjs)](https://skillicons.dev)
