@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @mogun
-- 🙂 I’m Chieri Sasaki 
+- 🙂 I’m Chieri
 ## 🌱 Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=py,php,ruby,css,html,js,ts,mysql,postgres,ansible,terraform,aws,gcp,docker,nodejs,react,nextjs)](https://skillicons.dev)
 
